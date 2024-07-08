@@ -26,7 +26,7 @@ jobs:
       - name: To check or not to check?
         id: check
         run: |
-          echo "run_r_cmd_check=false" >> $GITHUB_OUTPUT
+          echo "run_r_cmd_check=true" >> $GITHUB_OUTPUT
 
   r-cmd:
     name: R CMD Check 🧬
