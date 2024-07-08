@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="hello" timestamp="2024-07-08T09:13:19Z" hostname="9ed18ea79aa0" tests="3" skipped="0" failures="0" errors="0" time="0.206">
-    <testcase time="0.011" classname="hello" name="hello_works"/>
-    <testcase time="0.183" classname="hello" name="hello_cli_works"/>
-    <testcase time="0.012" classname="hello" name="fix_me_"/>
+  <testsuite name="hello" timestamp="2024-07-08T09:21:18Z" hostname="811a303c0aa9" tests="3" skipped="0" failures="0" errors="0" time="0.234">
+    <testcase time="0.013" classname="hello" name="hello_works"/>
+    <testcase time="0.208" classname="hello" name="hello_cli_works"/>
+    <testcase time="0.013" classname="hello" name="fix_me_"/>
   </testsuite>
 </testsuites>
