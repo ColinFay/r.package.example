@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="hello" timestamp="2024-07-08T09:29:17Z" hostname="b48d147ecb69" tests="3" skipped="0" failures="0" errors="0" time="0.207">
-    <testcase time="0.012" classname="hello" name="hello_works"/>
+  <testsuite name="hello" timestamp="2024-07-08T10:11:30Z" hostname="ec6b3b24ba93" tests="3" skipped="0" failures="0" errors="0" time="0.206">
+    <testcase time="0.011" classname="hello" name="hello_works"/>
     <testcase time="0.183" classname="hello" name="hello_cli_works"/>
     <testcase time="0.012" classname="hello" name="fix_me_"/>
   </testsuite>
